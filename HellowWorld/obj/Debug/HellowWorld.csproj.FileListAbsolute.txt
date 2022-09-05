@@ -1,0 +1,8 @@
+C:\Users\Owner\source\repos\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe.config
+C:\Users\Owner\source\repos\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe
+C:\Users\Owner\source\repos\HellowWorld\HellowWorld\bin\Debug\HellowWorld.pdb
+C:\Users\Owner\source\repos\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\source\repos\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\HellowWorld\HellowWorld\obj\Debug\HellowWorld.exe
+C:\Users\Owner\source\repos\HellowWorld\HellowWorld\obj\Debug\HellowWorld.pdb
