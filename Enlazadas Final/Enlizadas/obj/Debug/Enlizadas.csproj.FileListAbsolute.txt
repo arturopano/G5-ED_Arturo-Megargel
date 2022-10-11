@@ -1,0 +1,8 @@
+C:\Users\Owner\source\repos\Enlizadas\Enlizadas\bin\Debug\Enlizadas.exe.config
+C:\Users\Owner\source\repos\Enlizadas\Enlizadas\bin\Debug\Enlizadas.exe
+C:\Users\Owner\source\repos\Enlizadas\Enlizadas\bin\Debug\Enlizadas.pdb
+C:\Users\Owner\source\repos\Enlizadas\Enlizadas\obj\Debug\Enlizadas.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Enlizadas\Enlizadas\obj\Debug\Enlizadas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\source\repos\Enlizadas\Enlizadas\obj\Debug\Enlizadas.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Enlizadas\Enlizadas\obj\Debug\Enlizadas.exe
+C:\Users\Owner\source\repos\Enlizadas\Enlizadas\obj\Debug\Enlizadas.pdb
