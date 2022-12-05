@@ -1,0 +1,23 @@
+C:\Users\Isalt\OneDrive\Escritorio\Escuela\Quinto semestre\Datos\ArbolesBB\ArbolesBB\bin\Debug\ArbolesBB.exe.config
+C:\Users\Isalt\OneDrive\Escritorio\Escuela\Quinto semestre\Datos\ArbolesBB\ArbolesBB\bin\Debug\ArbolesBB.exe
+C:\Users\Isalt\OneDrive\Escritorio\Escuela\Quinto semestre\Datos\ArbolesBB\ArbolesBB\bin\Debug\ArbolesBB.pdb
+C:\Users\Isalt\OneDrive\Escritorio\Escuela\Quinto semestre\Datos\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.csproj.AssemblyReference.cache
+C:\Users\Isalt\OneDrive\Escritorio\Escuela\Quinto semestre\Datos\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Isalt\OneDrive\Escritorio\Escuela\Quinto semestre\Datos\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.csproj.CoreCompileInputs.cache
+C:\Users\Isalt\OneDrive\Escritorio\Escuela\Quinto semestre\Datos\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.exe
+C:\Users\Isalt\OneDrive\Escritorio\Escuela\Quinto semestre\Datos\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.pdb
+C:\Users\100015710\Downloads\ArbolesBB\ArbolesBB\bin\Debug\ArbolesBB.exe.config
+C:\Users\100015710\Downloads\ArbolesBB\ArbolesBB\bin\Debug\ArbolesBB.exe
+C:\Users\100015710\Downloads\ArbolesBB\ArbolesBB\bin\Debug\ArbolesBB.pdb
+C:\Users\100015710\Downloads\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.csprojAssemblyReference.cache
+C:\Users\100015710\Downloads\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.csproj.CoreCompileInputs.cache
+C:\Users\100015710\Downloads\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.exe
+C:\Users\100015710\Downloads\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.pdb
+C:\Users\Owner\Downloads\ArbolesBB1.1\ArbolesBB\ArbolesBB\bin\Debug\ArbolesBB.exe.config
+C:\Users\Owner\Downloads\ArbolesBB1.1\ArbolesBB\ArbolesBB\bin\Debug\ArbolesBB.exe
+C:\Users\Owner\Downloads\ArbolesBB1.1\ArbolesBB\ArbolesBB\bin\Debug\ArbolesBB.pdb
+C:\Users\Owner\Downloads\ArbolesBB1.1\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\ArbolesBB1.1\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Downloads\ArbolesBB1.1\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\ArbolesBB1.1\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.exe
+C:\Users\Owner\Downloads\ArbolesBB1.1\ArbolesBB\ArbolesBB\obj\Debug\ArbolesBB.pdb
